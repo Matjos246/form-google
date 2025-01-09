@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+}
+p{
+    padding:5px;
+}
+.Airtel{
+    color: #fff;
+    background-color: red;
+  
+}
+.info{
+    padding:30px 8px;
+    background-color:brown;
+}
+.btn{
+    padding: 2px;
+    color:aliceblue;
+    background-color: darkcyan;
+}
+.btn :hover{
+    color: blue;
+}
+#course{
+    color:green;
+    background-color: bisque;
+}
+.search{
+    background-color:grey;
+}
+#headline{
+    padding: 10px 20px;
+    color: chocolate;
+    background-color:azure
+}
